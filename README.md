@@ -1,4 +1,4 @@
-# Active_Neuromorphic_Space_Imaging_Dataset
+# Active_Neuromorphic_Space_Imaging_Liquid_Lens_Dataset
 
 ### EBVS Liquid-Lens Focus Dataset using GEN 4 HD EVK4
 
