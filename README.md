@@ -9,7 +9,7 @@ by Nicholas Owen Ralph, Darren Maybour, Alexandre Marcireau, Nik Dennler, Sami A
 
 Affiliations for all authors: International Centre for Neuromorphic Systems (ICNS), MARCS Institute for Brain, Behaviour and Development, Western Sydney University
 
-Manuscript is accessible on Arxiv: 
+Manuscript is accessible on [TechXiv]: https://www.techrxiv.org/users/851008/articles/1237817-active-neuromorphic-space-imaging-and-focusing-using-liquid-lenses
 
 ## Dataset:
 
